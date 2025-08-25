@@ -67,7 +67,7 @@ Customer Segmentation
 ## 🖼️ Dashboard Preview
 
 
-
+https://github.com/surajsinghsmn/Inventory-Analysis-DAshboard/blob/main/inventory%20analysis.jpg
 
 
 🚀 How to Use
