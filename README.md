@@ -67,7 +67,7 @@ Customer Segmentation
 ## 🖼️ Dashboard Preview
 
 
-![supplychaindashboard](https://github.com/user-attachments/assets/14feae93-5782-45d2-a089-e9aa341a786a)
+<img width="761" height="396" alt="inventorydash" src="https://github.com/user-attachments/assets/22ec4455-34a6-4bbb-b5e7-895f78c6be3a" />
 
 
 
